@@ -15,13 +15,24 @@
 + ICLR-21-submit Unifying Graph Convolutional Neural Networks and Label Propagation
 + ICLR-21-submit Learning Discrete Adaptive Receptive Fields for Graph Convolutional Networks
 
-#### Oversmoothing problem
+#### Over-Smoothing problem
 + AAAI-18 Deeper Insights into Graph Convolutional Networks for Semi-Supervised Learning
++ ICML-18 Representation Learning on Graphs with Jumping Knowledge Network
++ AAAI-20 Measuring and Relieving the Over-smoothing Problem for Graph Neural Networks from the Topological View
++ IJCAI-20 When Do GNNs Work: Understanding and Improving Neighborhood Aggregation
++ ICLR-20 Measuring and Improving the Use of Graph Information in Graph Neural Networks
++ ICLR-20 DropEdge: Towards Deep Graph Convolutional Networks on Node Classification
++ ICLR-20 PairNorm: Tackling Oversmoothing in GNNs
++ ICML-20 Simple and Deep Graph Convolutional Networks
++ KDD-20 Towards Deeper Graph Neural Networks
++ NIPS-20 Towards Deeper Graph Neural Networks with Differentiable Group Normalization
++ NIPS-20 Scattering GCN: Overcoming Oversmoothness in Graph Convolutional Networks
++ NIPS-20 Graph Random Neural Network for Semi-Supervised Learning on Graphs
++ NIPS-20 Optimization and Generalization of Shallow Neural Networks with Quadratic Activation Functions
 
 
 
-
-#### Interdiscipline
+#### Inter-discipline
 + AAAI-20 Collaborative Graph Convolutional Networks: Unsupervised Learning Meets Semi-Supervised Learning
 + AAAI-20 Multi-Stage Self-Supervised Learning for Graph Convolutional Networks on Graphs with Few Labeled Nodesa
 + IJCAI-20 Multi-Class Imbalanced Graph Convolutional Network Learning
