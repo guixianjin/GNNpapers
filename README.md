@@ -24,6 +24,7 @@
 #### Interdiscipline
 + AAAI-20 Collaborative Graph Convolutional Networks: Unsupervised Learning Meets Semi-Supervised Learning
 + IJCAI-20 Multi-Class Imbalanced Graph Convolutional Network Learning
++ ICLR-21-submit Towards Robust Graph Neural Networks against Label Noise
 
 
 #### Recommender system
