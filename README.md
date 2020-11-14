@@ -23,6 +23,8 @@
 + ICLR-20 Measuring and Improving the Use of Graph Information in Graph Neural Networks
 + ICLR-20 DropEdge: Towards Deep Graph Convolutional Networks on Node Classification
 + ICLR-20 PairNorm: Tackling Oversmoothing in GNNs
++ ICLR-20 Graph Neural Networks Exponentially Lose Expressive Power for Node Classification
++ ICLR-20-workshop A Note on Over-Smoothing for Graph Neural Networks
 + ICML-20 Simple and Deep Graph Convolutional Networks
 + KDD-20 Towards Deeper Graph Neural Networks
 + NIPS-20 Towards Deeper Graph Neural Networks with Differentiable Group Normalization
