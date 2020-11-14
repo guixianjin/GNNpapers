@@ -24,3 +24,13 @@
 #### Interdiscipline
 + AAAI-20 Collaborative Graph Convolutional Networks: Unsupervised Learning Meets Semi-Supervised Learning
 + IJCAI-20 Multi-Class Imbalanced Graph Convolutional Network Learning
+
+
+#### Recommender system
++ KDD-18 Billion-scale Commodity Embedding for E-commerce Recommendation in Alibaba
++ KDD-18 Graph convolutional neural networks for web-scale recommender systems (pinsage)
++ WWW-19 Graph Neural Networks for Social Recommendation
++ SIGIR-2019	Neural Graph Collaborative Filtering
++ SIGIR-2020	LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation
++ AAAI-2020	Revisiting Graph based Collaborative Filtering: A Linear Residual Graph Convolutional Network Approach
++ AAAI-20 Multi-Component Graph Convolutional Collaborative Filtering
