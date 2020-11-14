@@ -11,7 +11,7 @@
 + ICML-20 Continuous Graph Neural Networks (CGNN)
 + KDD-20 Graph Structure Learning for Robust Graph Neural Networks (ProGNN)
 + NIPS-20 Iterative Deep Graph Learning for Graph Neural Networks: Better and Robust Node Embeddings
-+ ICLR-21-submit Iterative Deep Graph Learning for Graph Neural Networks: Better and Robust Node Embeddings
++ ICLR-21-submit VEM-GCN: Topology Optimization with Variational EM for Graph Convolutional Networks
 + ICLR-21-submit Unifying Graph Convolutional Neural Networks and Label Propagation
 + ICLR-21-submit Learning Discrete Adaptive Receptive Fields for Graph Convolutional Networks
 
