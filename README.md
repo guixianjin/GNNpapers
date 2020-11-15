@@ -29,9 +29,12 @@
 + KDD-20 Towards Deeper Graph Neural Networks
 + NIPS-20 Towards Deeper Graph Neural Networks with Differentiable Group Normalization
 + NIPS-20 Scattering GCN: Overcoming Oversmoothness in Graph Convolutional Networks
-+ NIPS-20 Graph Random Neural Network for Semi-Supervised Learning on Graphs
 + NIPS-20 Optimization and Generalization of Shallow Neural Networks with Quadratic Activation Functions
 
+
+#### Consistency regularization on unlabeled node
++ NIPS-20-submit GraphMix: Regularized Training of Graph Neural Networks for Semi-Supervised Learning
++ NIPS-20 Graph Random Neural Network for Semi-Supervised Learning on Graphs
 
 
 #### Inter-discipline
