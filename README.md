@@ -35,6 +35,7 @@
 #### Consistency regularization on unlabeled node
 + NIPS-20-submit GraphMix: Regularized Training of Graph Neural Networks for Semi-Supervised Learning
 + NIPS-20 Graph Random Neural Network for Semi-Supervised Learning on Graphs
++ ICML-19 Workshop Batch Virtual Adversarial Training for Graph Convolutional Networks
 
 
 #### Inter-discipline
