@@ -36,8 +36,8 @@
 + NIPS-20-submit GraphMix: Regularized Training of Graph Neural Networks for Semi-Supervised Learning
 + NIPS-20 Graph Random Neural Network for Semi-Supervised Learning on Graphs
 + ICML-19-Workshop Batch Virtual Adversarial Training for Graph Convolutional Networks
-
-
++ NIPS-19 Graph Agreement Models for Semi-Supervised Learning
++ SIGIR-20 Label-Consistency based Graph Neural Networks for Semi-supervised Node Classification
 
 #### Inter-discipline
 + AAAI-20 Collaborative Graph Convolutional Networks: Unsupervised Learning Meets Semi-Supervised Learning
